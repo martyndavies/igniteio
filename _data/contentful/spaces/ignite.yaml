@@ -1,0 +1,1214 @@
+---
+programme:
+- sys:
+    id: 6Cc8LCpV6M4QCOseQci0Sa
+    created_at: !ruby/object:DateTime 2017-06-19 14:12:02.199000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:12:02.199000000 Z
+    content_type_id: programme
+  programme_number: 8
+  programme_name: 'Ignite #8'
+  city: London
+  programme_timeframe: January - April 2016
+- sys:
+    id: 25mAwSKoq0UYukA44mkIqu
+    created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+    content_type_id: programme
+  programme_number: 10
+  programme_name: 'Ignite #10'
+  city: London
+  programme_timeframe: September - December 2016
+  teams:
+  - sys:
+      id: 1sOMKbNUXyG6MEaUoqKsgO
+      created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+      updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+      content_type_id: alumni
+    company_name: Stashbee
+    alumi_of_programme:
+      sys:
+        id: 25mAwSKoq0UYukA44mkIqu
+        created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+        updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+        content_type_id: programme
+      programme_number: 10
+      programme_name: 'Ignite #10'
+      city: London
+      programme_timeframe: September - December 2016
+      teams:
+      - sys:
+          id: 1sOMKbNUXyG6MEaUoqKsgO
+          created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+          updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+          content_type_id: alumni
+        company_name: Stashbee
+        alumi_of_programme:
+          sys:
+            id: 25mAwSKoq0UYukA44mkIqu
+            created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+            updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+            content_type_id: programme
+          programme_number: 10
+          programme_name: 'Ignite #10'
+          city: London
+          programme_timeframe: September - December 2016
+          teams:
+          - sys:
+              id: 1sOMKbNUXyG6MEaUoqKsgO
+              created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+              updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+              content_type_id: alumni
+            company_name: Stashbee
+            alumi_of_programme:
+              sys:
+                id: 25mAwSKoq0UYukA44mkIqu
+                created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+                updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+                content_type_id: programme
+              programme_number: 10
+              programme_name: 'Ignite #10'
+              city: London
+              programme_timeframe: September - December 2016
+              teams:
+              - sys:
+                  id: 1sOMKbNUXyG6MEaUoqKsgO
+                  created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                    Z
+                  updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                    Z
+                  content_type_id: alumni
+                company_name: Stashbee
+                alumi_of_programme:
+                  sys:
+                    id: 25mAwSKoq0UYukA44mkIqu
+                    created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                      Z
+                    updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                      Z
+                    content_type_id: programme
+                  programme_number: 10
+                  programme_name: 'Ignite #10'
+                  city: London
+                  programme_timeframe: September - December 2016
+                  teams:
+                  - sys:
+                      id: 1sOMKbNUXyG6MEaUoqKsgO
+                      created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                        Z
+                      updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                        Z
+                      content_type_id: alumni
+                    company_name: Stashbee
+                    alumi_of_programme:
+                      sys:
+                        id: 25mAwSKoq0UYukA44mkIqu
+                        created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                          Z
+                        updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                          Z
+                        content_type_id: programme
+                      programme_number: 10
+                      programme_name: 'Ignite #10'
+                      city: London
+                      programme_timeframe: September - December 2016
+                      teams:
+                      - sys:
+                          id: 1sOMKbNUXyG6MEaUoqKsgO
+                          created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                            Z
+                          updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                            Z
+                          content_type_id: alumni
+                        company_name: Stashbee
+                        alumi_of_programme:
+                          sys:
+                            id: 25mAwSKoq0UYukA44mkIqu
+                            created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                              Z
+                            updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                              Z
+                            content_type_id: programme
+                          programme_number: 10
+                          programme_name: 'Ignite #10'
+                          city: London
+                          programme_timeframe: September - December 2016
+                          teams:
+                          - sys:
+                              id: 1sOMKbNUXyG6MEaUoqKsgO
+                              created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                Z
+                              updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                Z
+                              content_type_id: alumni
+                            company_name: Stashbee
+                            alumi_of_programme:
+                              sys:
+                                id: 25mAwSKoq0UYukA44mkIqu
+                                created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                  Z
+                                updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                  Z
+                                content_type_id: programme
+                              programme_number: 10
+                              programme_name: 'Ignite #10'
+                              city: London
+                              programme_timeframe: September - December 2016
+                              teams:
+                              - sys:
+                                  id: 1sOMKbNUXyG6MEaUoqKsgO
+                                  created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                    Z
+                                  updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                    Z
+                                  content_type_id: alumni
+                                company_name: Stashbee
+                                alumi_of_programme:
+                                  sys:
+                                    id: 25mAwSKoq0UYukA44mkIqu
+                                    created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                      Z
+                                    updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                      Z
+                                    content_type_id: programme
+                                  programme_number: 10
+                                  programme_name: 'Ignite #10'
+                                  city: London
+                                  programme_timeframe: September - December 2016
+                                  teams:
+                                  - sys:
+                                      id: 1sOMKbNUXyG6MEaUoqKsgO
+                                      created_at: !ruby/object:DateTime 2017-06-19
+                                        14:07:44.250000000 Z
+                                      updated_at: !ruby/object:DateTime 2017-06-19
+                                        14:07:44.250000000 Z
+                                      content_type_id: alumni
+                                    company_name: Stashbee
+                                    alumi_of_programme:
+                                      sys:
+                                        id: 25mAwSKoq0UYukA44mkIqu
+                                        created_at: !ruby/object:DateTime 2017-06-19
+                                          14:07:52.429000000 Z
+                                        updated_at: !ruby/object:DateTime 2017-06-19
+                                          14:07:52.429000000 Z
+                                        content_type_id: programme
+                                      programme_number: 10
+                                      programme_name: 'Ignite #10'
+                                      city: London
+                                      programme_timeframe: September - December 2016
+                                      teams:
+                                      - sys:
+                                          id: 1sOMKbNUXyG6MEaUoqKsgO
+                                          created_at: !ruby/object:DateTime 2017-06-19
+                                            14:07:44.250000000 Z
+                                          updated_at: !ruby/object:DateTime 2017-06-19
+                                            14:07:44.250000000 Z
+                                          content_type_id: alumni
+                                        company_name: Stashbee
+                                        alumi_of_programme:
+                                          sys:
+                                            id: 25mAwSKoq0UYukA44mkIqu
+                                            created_at: !ruby/object:DateTime 2017-06-19
+                                              14:07:52.429000000 Z
+                                            updated_at: !ruby/object:DateTime 2017-06-19
+                                              14:07:52.429000000 Z
+                                            content_type_id: programme
+                                          programme_number: 10
+                                          programme_name: 'Ignite #10'
+                                          city: London
+                                          programme_timeframe: September - December
+                                            2016
+                                          teams:
+                                          - sys:
+                                              id: 1sOMKbNUXyG6MEaUoqKsgO
+- sys:
+    id: 2jYZA5QWdSGYaISYi6iok0
+    created_at: !ruby/object:DateTime 2017-06-19 14:10:58.641000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:16:11.683000000 Z
+    content_type_id: programme
+  programme_number: 12
+  programme_name: 'Ignite #12'
+  city: UK
+  programme_timeframe: May 2017 - April 2018
+- sys:
+    id: IWM3M8hT6SMsyoEq2UaAA
+    created_at: !ruby/object:DateTime 2017-06-19 14:12:34.137000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:12:34.137000000 Z
+    content_type_id: programme
+  programme_number: 7
+  programme_name: 'Ignite #7'
+  city: Newcastle
+  programme_timeframe: September - December 2015
+- sys:
+    id: 6R6ryOpFJY6s2caeeccIk0
+    created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+    content_type_id: programme
+  programme_number: 11
+  programme_name: 'Ignite #11'
+  city: Manchester
+  programme_timeframe: January - March, 2017
+  teams:
+  - sys:
+      id: 2L8GcTGvNKauImS4uEAyIg
+      created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+      updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+      content_type_id: alumni
+    company_name: Sliips
+    alumi_of_programme:
+      sys:
+        id: 6R6ryOpFJY6s2caeeccIk0
+        created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+        updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+        content_type_id: programme
+      programme_number: 11
+      programme_name: 'Ignite #11'
+      city: Manchester
+      programme_timeframe: January - March, 2017
+      teams:
+      - sys:
+          id: 2L8GcTGvNKauImS4uEAyIg
+          created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+          updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+          content_type_id: alumni
+        company_name: Sliips
+        alumi_of_programme:
+          sys:
+            id: 6R6ryOpFJY6s2caeeccIk0
+            created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+            updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+            content_type_id: programme
+          programme_number: 11
+          programme_name: 'Ignite #11'
+          city: Manchester
+          programme_timeframe: January - March, 2017
+          teams:
+          - sys:
+              id: 2L8GcTGvNKauImS4uEAyIg
+              created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+              updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+              content_type_id: alumni
+            company_name: Sliips
+            alumi_of_programme:
+              sys:
+                id: 6R6ryOpFJY6s2caeeccIk0
+                created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+                updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+                content_type_id: programme
+              programme_number: 11
+              programme_name: 'Ignite #11'
+              city: Manchester
+              programme_timeframe: January - March, 2017
+              teams:
+              - sys:
+                  id: 2L8GcTGvNKauImS4uEAyIg
+                  created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                    Z
+                  updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                    Z
+                  content_type_id: alumni
+                company_name: Sliips
+                alumi_of_programme:
+                  sys:
+                    id: 6R6ryOpFJY6s2caeeccIk0
+                    created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                      Z
+                    updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                      Z
+                    content_type_id: programme
+                  programme_number: 11
+                  programme_name: 'Ignite #11'
+                  city: Manchester
+                  programme_timeframe: January - March, 2017
+                  teams:
+                  - sys:
+                      id: 2L8GcTGvNKauImS4uEAyIg
+                      created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                        Z
+                      updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                        Z
+                      content_type_id: alumni
+                    company_name: Sliips
+                    alumi_of_programme:
+                      sys:
+                        id: 6R6ryOpFJY6s2caeeccIk0
+                        created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                          Z
+                        updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                          Z
+                        content_type_id: programme
+                      programme_number: 11
+                      programme_name: 'Ignite #11'
+                      city: Manchester
+                      programme_timeframe: January - March, 2017
+                      teams:
+                      - sys:
+                          id: 2L8GcTGvNKauImS4uEAyIg
+                          created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                            Z
+                          updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                            Z
+                          content_type_id: alumni
+                        company_name: Sliips
+                        alumi_of_programme:
+                          sys:
+                            id: 6R6ryOpFJY6s2caeeccIk0
+                            created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                              Z
+                            updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                              Z
+                            content_type_id: programme
+                          programme_number: 11
+                          programme_name: 'Ignite #11'
+                          city: Manchester
+                          programme_timeframe: January - March, 2017
+                          teams:
+                          - sys:
+                              id: 2L8GcTGvNKauImS4uEAyIg
+                              created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                Z
+                              updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                Z
+                              content_type_id: alumni
+                            company_name: Sliips
+                            alumi_of_programme:
+                              sys:
+                                id: 6R6ryOpFJY6s2caeeccIk0
+                                created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                                  Z
+                                updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                                  Z
+                                content_type_id: programme
+                              programme_number: 11
+                              programme_name: 'Ignite #11'
+                              city: Manchester
+                              programme_timeframe: January - March, 2017
+                              teams:
+                              - sys:
+                                  id: 2L8GcTGvNKauImS4uEAyIg
+                                  created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                    Z
+                                  updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                    Z
+                                  content_type_id: alumni
+                                company_name: Sliips
+                                alumi_of_programme:
+                                  sys:
+                                    id: 6R6ryOpFJY6s2caeeccIk0
+                                    created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                                      Z
+                                    updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                                      Z
+                                    content_type_id: programme
+                                  programme_number: 11
+                                  programme_name: 'Ignite #11'
+                                  city: Manchester
+                                  programme_timeframe: January - March, 2017
+                                  teams:
+                                  - sys:
+                                      id: 2L8GcTGvNKauImS4uEAyIg
+                                      created_at: !ruby/object:DateTime 2017-06-19
+                                        12:44:08.258000000 Z
+                                      updated_at: !ruby/object:DateTime 2017-06-19
+                                        12:44:08.258000000 Z
+                                      content_type_id: alumni
+                                    company_name: Sliips
+                                    alumi_of_programme:
+                                      sys:
+                                        id: 6R6ryOpFJY6s2caeeccIk0
+                                        created_at: !ruby/object:DateTime 2017-06-19
+                                          12:40:49.196000000 Z
+                                        updated_at: !ruby/object:DateTime 2017-06-19
+                                          14:06:04.281000000 Z
+                                        content_type_id: programme
+                                      programme_number: 11
+                                      programme_name: 'Ignite #11'
+                                      city: Manchester
+                                      programme_timeframe: January - March, 2017
+                                      teams:
+                                      - sys:
+                                          id: 2L8GcTGvNKauImS4uEAyIg
+                                          created_at: !ruby/object:DateTime 2017-06-19
+                                            12:44:08.258000000 Z
+                                          updated_at: !ruby/object:DateTime 2017-06-19
+                                            12:44:08.258000000 Z
+                                          content_type_id: alumni
+                                        company_name: Sliips
+                                        alumi_of_programme:
+                                          sys:
+                                            id: 6R6ryOpFJY6s2caeeccIk0
+                                            created_at: !ruby/object:DateTime 2017-06-19
+                                              12:40:49.196000000 Z
+                                            updated_at: !ruby/object:DateTime 2017-06-19
+                                              14:06:04.281000000 Z
+                                            content_type_id: programme
+                                          programme_number: 11
+                                          programme_name: 'Ignite #11'
+                                          city: Manchester
+                                          programme_timeframe: January - March, 2017
+                                          teams:
+                                          - sys:
+                                              id: 2L8GcTGvNKauImS4uEAyIg
+- sys:
+    id: 5b2tqBmkfmaIKwISQgyCo8
+    created_at: !ruby/object:DateTime 2017-06-19 14:11:29.326000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:11:29.326000000 Z
+    content_type_id: programme
+  programme_number: 9
+  programme_name: 'Ignite #9'
+  city: Manchester
+  programme_timeframe: April - June 2016
+mediumArticle:
+- sys:
+    id: 3FJ617rD6MGwU6MyuMEE6E
+    created_at: !ruby/object:DateTime 2016-09-14 14:11:07.166000000 Z
+    updated_at: !ruby/object:DateTime 2016-09-14 14:11:07.166000000 Z
+    content_type_id: mediumArticle
+  title: What to expect when you start on an (our) accelerator
+  url: https://medium.com/ignite-accelerator/what-to-expect-when-you-start-on-an-our-accelerator-be523038ecd9?source=rss----307eeef6ad0f---4
+- sys:
+    id: 1pSMkMXYcEiQsAOs2asiOA
+    created_at: !ruby/object:DateTime 2016-10-21 09:28:21.193000000 Z
+    updated_at: !ruby/object:DateTime 2016-10-21 09:28:21.193000000 Z
+    content_type_id: mediumArticle
+  title: Entrepreneur? In Manchester? We’re Hiring!
+  url: https://medium.com/ignite-accelerator/entrepreneur-in-manchester-were-hiring-37ee58b8eba7?source=rss----307eeef6ad0f---4
+- sys:
+    id: 54bGr4B156KowEEqygyE6E
+    created_at: !ruby/object:DateTime 2016-09-13 08:45:46.778000000 Z
+    updated_at: !ruby/object:DateTime 2016-09-13 08:45:46.778000000 Z
+    content_type_id: mediumArticle
+  title: INVEST IN IGNITE | SEEDRS LIVE!
+  url: https://medium.com/ignite-accelerator/invest-in-ignite-seedrs-live-b881252c7575?source=rss----307eeef6ad0f---4
+- sys:
+    id: 3HvmsRyhlSAe4IQEgIcsue
+    created_at: !ruby/object:DateTime 2017-07-20 14:25:51.408000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:25:51.408000000 Z
+    content_type_id: mediumArticle
+  title: Ignite’s Code of Conduct
+  url: https://blog.ignite.io/ignites-code-of-conduct-89e01f8b5987?source=rss----307eeef6ad0f---4
+- sys:
+    id: 5h6jWXNBW0kogAmYIIGIEi
+    created_at: !ruby/object:DateTime 2016-07-07 19:13:55.152000000 Z
+    updated_at: !ruby/object:DateTime 2016-07-07 19:13:55.152000000 Z
+    content_type_id: mediumArticle
+  title: IGNITE MANCHESTER — ZERO TO 90
+  url: https://medium.com/ignite-accelerator/ignite-manchester-zero-to-90-dc422e8544b8?source=rss----307eeef6ad0f---4
+- sys:
+    id: 6yIm4Ycz5YMo8SE28gs2MC
+    created_at: !ruby/object:DateTime 2016-08-25 09:53:36.718000000 Z
+    updated_at: !ruby/object:DateTime 2016-08-25 09:53:36.718000000 Z
+    content_type_id: mediumArticle
+  title: We’re hiring…
+  url: https://medium.com/ignite-accelerator/were-hiring-75bfe7682744?source=rss----307eeef6ad0f---4
+- sys:
+    id: 4RvKfVhwis2eswy8KKeCey
+    created_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
+    updated_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
+    content_type_id: mediumArticle
+  title: Why do service providers work with accelerators?
+  url: https://medium.com/ignite-accelerator/why-do-service-providers-work-with-accelerators-a623eee10be2?source=rss----307eeef6ad0f---4
+- sys:
+    id: 244a3cLsp2eUG2uY4y28GE
+    created_at: !ruby/object:DateTime 2016-09-08 09:13:20.915000000 Z
+    updated_at: !ruby/object:DateTime 2016-09-08 09:13:20.915000000 Z
+    content_type_id: mediumArticle
+  title: IGNITE MANCHESTER | SEPTEMBER UPDATE
+  url: https://medium.com/ignite-accelerator/ignite-manchester-september-update-5ed37b3c6eb7?source=rss----307eeef6ad0f---4
+- sys:
+    id: 2vk9f8bGukgkgEWIe0cyWQ
+    created_at: !ruby/object:DateTime 2017-01-05 13:24:47.669000000 Z
+    updated_at: !ruby/object:DateTime 2017-01-05 13:24:47.669000000 Z
+    content_type_id: mediumArticle
+  title: New Year’s Resolutions — Start-Up Edition
+  url: https://medium.com/ignite-accelerator/new-years-resolutions-start-up-edition-58fa303425ce?source=rss----307eeef6ad0f---4
+- sys:
+    id: 1CkHasjnmYEYUAYKQacakS
+    created_at: !ruby/object:DateTime 2016-08-12 10:44:37.433000000 Z
+    updated_at: !ruby/object:DateTime 2016-08-12 10:44:37.433000000 Z
+    content_type_id: mediumArticle
+  title: HOW TO SMASH AN ACCELERATOR INTERVIEW
+  url: https://medium.com/ignite-accelerator/how-to-smash-an-ignite-interview-fd2b69999c23?source=rss----307eeef6ad0f---4
+- sys:
+    id: K7jI1692Im2WsOyoCmCYC
+    created_at: !ruby/object:DateTime 2016-10-31 11:50:22.461000000 Z
+    updated_at: !ruby/object:DateTime 2016-10-31 11:50:22.461000000 Z
+    content_type_id: mediumArticle
+  title: 4 things no one has told you about accelerators
+  url: https://medium.com/ignite-accelerator/5-things-no-one-has-told-you-about-accelerators-7caef8a2aa4e?source=rss----307eeef6ad0f---4
+- sys:
+    id: 19uz3LBbJccO2QQCusIk6S
+    created_at: !ruby/object:DateTime 2016-12-01 14:14:24.839000000 Z
+    updated_at: !ruby/object:DateTime 2016-12-01 14:14:24.839000000 Z
+    content_type_id: mediumArticle
+  title: How is it going, Ignite#10? — Part 1
+  url: https://medium.com/ignite-accelerator/how-is-it-going-ignite-10-part-1-a337eb67ee62?source=rss----307eeef6ad0f---4
+- sys:
+    id: 5wSxtoWd8sEcaWIoqmCAko
+    created_at: !ruby/object:DateTime 2016-08-03 13:59:52.470000000 Z
+    updated_at: !ruby/object:DateTime 2016-08-03 13:59:52.470000000 Z
+    content_type_id: mediumArticle
+  title: IGNITE MANCHESTER | AUGUST UPDATE
+  url: https://medium.com/ignite-accelerator/ignite-manchester-august-update-3ae78a217d71?source=rss----307eeef6ad0f---4
+- sys:
+    id: 3YsrxkptWwGqEGMmGMI2cm
+    created_at: !ruby/object:DateTime 2017-06-19 13:56:38.539000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 13:57:27.975000000 Z
+    content_type_id: mediumArticle
+  title: What we are thinking during your accelerator interview
+  url: https://blog.ignite.io/what-we-are-thinking-during-your-accelerator-interview-57a0f408a235?source=rss----307eeef6ad0f---4
+  team_member:
+    sys:
+      id: 1GZt9MHUawGAeUMymq0SgM
+      created_at: !ruby/object:DateTime 2017-06-19 13:39:57.836000000 Z
+      updated_at: !ruby/object:DateTime 2017-07-20 14:27:48.833000000 Z
+      content_type_id: teamMember
+    first_name: Gabriela
+    last_name: Matic
+    role: Programme & Marketing Manager
+    twitter: gabrielala
+    position: 3
+- sys:
+    id: puvbf5krhACqcwsMCCS8a
+    created_at: !ruby/object:DateTime 2016-07-15 08:58:57.146000000 Z
+    updated_at: !ruby/object:DateTime 2016-07-15 08:58:57.146000000 Z
+    content_type_id: mediumArticle
+  title: How has being part of Ignite helped our founders?
+  url: https://medium.com/ignite-accelerator/how-has-being-part-of-ignite-helped-our-founders-df6a67994677?source=rss----307eeef6ad0f---4
+- sys:
+    id: 4Gylg36w2kAGYUSQgESkg6
+    created_at: !ruby/object:DateTime 2016-09-26 08:04:18.734000000 Z
+    updated_at: !ruby/object:DateTime 2016-09-26 08:04:18.734000000 Z
+    content_type_id: mediumArticle
+  title: 'Introducing Ignite #10'
+  url: https://medium.com/ignite-accelerator/introducing-ignite-10-f4889175eaac?source=rss----307eeef6ad0f---4
+- sys:
+    id: 2Yfz3txuX6CIIU026wyUa2
+    created_at: !ruby/object:DateTime 2017-02-03 12:06:19.714000000 Z
+    updated_at: !ruby/object:DateTime 2017-02-03 12:06:19.714000000 Z
+    content_type_id: mediumArticle
+  title: Want to work with Ignite?
+  url: https://blog.ignite.io/want-to-work-with-ignite-1182873f6584?source=rss----307eeef6ad0f---4
+- sys:
+    id: 1gk752fQJ44qQ2qag6WaW8
+    created_at: !ruby/object:DateTime 2016-08-25 16:18:10.187000000 Z
+    updated_at: !ruby/object:DateTime 2016-08-25 16:18:10.187000000 Z
+    content_type_id: mediumArticle
+  title: The Anatomy of a Seed Deal (Part 2)
+  url: https://medium.com/ignite-accelerator/anatomy-of-a-seed-deal-part-2-the-results-cbb4e9ab7c5e?source=rss----307eeef6ad0f---4
+- sys:
+    id: 18WpwWto1gauEik4wGm4cG
+    created_at: !ruby/object:DateTime 2017-01-04 19:30:22.387000000 Z
+    updated_at: !ruby/object:DateTime 2017-01-04 19:30:22.387000000 Z
+    content_type_id: mediumArticle
+  title: In the North East? Got an idea? Join Ignite’s Pre-Accelerator.
+  url: https://medium.com/ignite-accelerator/in-the-north-east-got-an-idea-join-ignites-pre-accelerator-4692ea5c0516?source=rss----307eeef6ad0f---4
+- sys:
+    id: 3T75EPGoMMsOgQE8EO8SG
+    created_at: !ruby/object:DateTime 2016-09-08 09:13:19.882000000 Z
+    updated_at: !ruby/object:DateTime 2016-09-08 09:13:19.882000000 Z
+    content_type_id: mediumArticle
+  title: IGNITE LAUNCHES PRE-ACCELERATOR IN SHEFFIELD
+  url: https://medium.com/ignite-accelerator/ignite-launches-pre-accelerator-in-sheffield-7309de749912?source=rss----307eeef6ad0f---4
+- sys:
+    id: lD3Di8sMZqyEA62eSswio
+    created_at: !ruby/object:DateTime 2016-06-29 06:53:08.418000000 Z
+    updated_at: !ruby/object:DateTime 2016-06-29 06:53:08.418000000 Z
+    content_type_id: mediumArticle
+  title: You’ve got 99 Problems, but Brexit ain’t one…
+  url: https://medium.com/ignite-accelerator/youve-got-99-problems-but-brexit-ain-t-one-37c4d91729e8?source=rss----307eeef6ad0f---4
+- sys:
+    id: 4zvVYdGLF6CGyC0eSYemk6
+    created_at: !ruby/object:DateTime 2016-10-10 11:28:20.459000000 Z
+    updated_at: !ruby/object:DateTime 2016-10-10 11:28:20.459000000 Z
+    content_type_id: mediumArticle
+  title: COULD YOU BE ON THE NEXT IGNITE ACCELERATOR PROGRAMME? …
+  url: https://medium.com/ignite-accelerator/could-you-be-on-the-next-ignite-accelerator-programme-b66660fcb585?source=rss----307eeef6ad0f---4
+- sys:
+    id: 5OmBPYUnvOKCOAiKScQmcc
+    created_at: !ruby/object:DateTime 2017-01-10 09:37:03.440000000 Z
+    updated_at: !ruby/object:DateTime 2017-01-10 09:37:03.440000000 Z
+    content_type_id: mediumArticle
+  title: 'Introducing Ignite #11'
+  url: https://medium.com/ignite-accelerator/introducing-ignite-11-b848f3b94dc?source=rss----307eeef6ad0f---4
+- sys:
+    id: 3qNgYaTqB2ke8kmYQ6Ew2W
+    created_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
+    updated_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
+    content_type_id: mediumArticle
+  title: Ignite+ Pre-Accelerator heads to Croydon
+  url: https://medium.com/ignite-accelerator/ignite-pre-accelerator-heads-to-croydon-e480bd9c5b48?source=rss----307eeef6ad0f---4
+- sys:
+    id: 4bpoEPYfvWcGOMIsqwEAQY
+    created_at: !ruby/object:DateTime 2016-07-28 15:51:09.130000000 Z
+    updated_at: !ruby/object:DateTime 2016-07-28 15:51:09.130000000 Z
+    content_type_id: mediumArticle
+  title: The Anatomy of a Seed Deal (Part 1)
+  url: https://medium.com/ignite-accelerator/the-anatomy-of-a-seed-deal-part-1-38c61141f633?source=rss----307eeef6ad0f---4
+- sys:
+    id: 77piP7FgTC8UuMAgaakW2O
+    created_at: !ruby/object:DateTime 2017-01-31 17:54:16.745000000 Z
+    updated_at: !ruby/object:DateTime 2017-01-31 17:54:16.745000000 Z
+    content_type_id: mediumArticle
+  title: The Ignite Effect
+  url: https://blog.ignite.io/the-ignite-effect-3a7a10974c7d?source=rss----307eeef6ad0f---4
+- sys:
+    id: P5c7kXAYCceAwucGCauyU
+    created_at: !ruby/object:DateTime 2016-07-21 15:02:05.673000000 Z
+    updated_at: !ruby/object:DateTime 2016-07-21 15:02:05.673000000 Z
+    content_type_id: mediumArticle
+  title: Startup A-Z
+  url: https://medium.com/ignite-accelerator/startup-a-z-e47c39962d6c?source=rss----307eeef6ad0f---4
+- sys:
+    id: 29XhO9aWfKKgymi06QskEg
+    created_at: !ruby/object:DateTime 2016-12-07 12:35:53.686000000 Z
+    updated_at: !ruby/object:DateTime 2016-12-07 12:35:53.686000000 Z
+    content_type_id: mediumArticle
+  title: How is it going, Ignite#10? — Part 2
+  url: https://medium.com/ignite-accelerator/how-is-it-going-ignite-10-part-2-753f89327625?source=rss----307eeef6ad0f---4
+- sys:
+    id: 2B3WFYXnBaaiCES8o62SyQ
+    created_at: !ruby/object:DateTime 2016-06-24 09:50:11.751000000 Z
+    updated_at: !ruby/object:DateTime 2016-06-24 09:50:11.751000000 Z
+    content_type_id: mediumArticle
+  title: Ignite and Female Founders
+  url: https://medium.com/ignite-accelerator/ignite-and-female-founders-7ba580613d88?source=rss----307eeef6ad0f---4
+alumni:
+- sys:
+    id: 2L8GcTGvNKauImS4uEAyIg
+    created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+    content_type_id: alumni
+  company_name: Sliips
+  alumi_of_programme:
+    sys:
+      id: 6R6ryOpFJY6s2caeeccIk0
+      created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+      updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+      content_type_id: programme
+    programme_number: 11
+    programme_name: 'Ignite #11'
+    city: Manchester
+    programme_timeframe: January - March, 2017
+    teams:
+    - sys:
+        id: 2L8GcTGvNKauImS4uEAyIg
+        created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+        updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+        content_type_id: alumni
+      company_name: Sliips
+      alumi_of_programme:
+        sys:
+          id: 6R6ryOpFJY6s2caeeccIk0
+          created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+          updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+          content_type_id: programme
+        programme_number: 11
+        programme_name: 'Ignite #11'
+        city: Manchester
+        programme_timeframe: January - March, 2017
+        teams:
+        - sys:
+            id: 2L8GcTGvNKauImS4uEAyIg
+            created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+            updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+            content_type_id: alumni
+          company_name: Sliips
+          alumi_of_programme:
+            sys:
+              id: 6R6ryOpFJY6s2caeeccIk0
+              created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000 Z
+              updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000 Z
+              content_type_id: programme
+            programme_number: 11
+            programme_name: 'Ignite #11'
+            city: Manchester
+            programme_timeframe: January - March, 2017
+            teams:
+            - sys:
+                id: 2L8GcTGvNKauImS4uEAyIg
+                created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+                updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000 Z
+                content_type_id: alumni
+              company_name: Sliips
+              alumi_of_programme:
+                sys:
+                  id: 6R6ryOpFJY6s2caeeccIk0
+                  created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                    Z
+                  updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                    Z
+                  content_type_id: programme
+                programme_number: 11
+                programme_name: 'Ignite #11'
+                city: Manchester
+                programme_timeframe: January - March, 2017
+                teams:
+                - sys:
+                    id: 2L8GcTGvNKauImS4uEAyIg
+                    created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                      Z
+                    updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                      Z
+                    content_type_id: alumni
+                  company_name: Sliips
+                  alumi_of_programme:
+                    sys:
+                      id: 6R6ryOpFJY6s2caeeccIk0
+                      created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                        Z
+                      updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                        Z
+                      content_type_id: programme
+                    programme_number: 11
+                    programme_name: 'Ignite #11'
+                    city: Manchester
+                    programme_timeframe: January - March, 2017
+                    teams:
+                    - sys:
+                        id: 2L8GcTGvNKauImS4uEAyIg
+                        created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                          Z
+                        updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                          Z
+                        content_type_id: alumni
+                      company_name: Sliips
+                      alumi_of_programme:
+                        sys:
+                          id: 6R6ryOpFJY6s2caeeccIk0
+                          created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                            Z
+                          updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                            Z
+                          content_type_id: programme
+                        programme_number: 11
+                        programme_name: 'Ignite #11'
+                        city: Manchester
+                        programme_timeframe: January - March, 2017
+                        teams:
+                        - sys:
+                            id: 2L8GcTGvNKauImS4uEAyIg
+                            created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                              Z
+                            updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                              Z
+                            content_type_id: alumni
+                          company_name: Sliips
+                          alumi_of_programme:
+                            sys:
+                              id: 6R6ryOpFJY6s2caeeccIk0
+                              created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                                Z
+                              updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                                Z
+                              content_type_id: programme
+                            programme_number: 11
+                            programme_name: 'Ignite #11'
+                            city: Manchester
+                            programme_timeframe: January - March, 2017
+                            teams:
+                            - sys:
+                                id: 2L8GcTGvNKauImS4uEAyIg
+                                created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                  Z
+                                updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                  Z
+                                content_type_id: alumni
+                              company_name: Sliips
+                              alumi_of_programme:
+                                sys:
+                                  id: 6R6ryOpFJY6s2caeeccIk0
+                                  created_at: !ruby/object:DateTime 2017-06-19 12:40:49.196000000
+                                    Z
+                                  updated_at: !ruby/object:DateTime 2017-06-19 14:06:04.281000000
+                                    Z
+                                  content_type_id: programme
+                                programme_number: 11
+                                programme_name: 'Ignite #11'
+                                city: Manchester
+                                programme_timeframe: January - March, 2017
+                                teams:
+                                - sys:
+                                    id: 2L8GcTGvNKauImS4uEAyIg
+                                    created_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                      Z
+                                    updated_at: !ruby/object:DateTime 2017-06-19 12:44:08.258000000
+                                      Z
+                                    content_type_id: alumni
+                                  company_name: Sliips
+                                  alumi_of_programme:
+                                    sys:
+                                      id: 6R6ryOpFJY6s2caeeccIk0
+                                      created_at: !ruby/object:DateTime 2017-06-19
+                                        12:40:49.196000000 Z
+                                      updated_at: !ruby/object:DateTime 2017-06-19
+                                        14:06:04.281000000 Z
+                                      content_type_id: programme
+                                    programme_number: 11
+                                    programme_name: 'Ignite #11'
+                                    city: Manchester
+                                    programme_timeframe: January - March, 2017
+                                    teams:
+                                    - sys:
+                                        id: 2L8GcTGvNKauImS4uEAyIg
+                                        created_at: !ruby/object:DateTime 2017-06-19
+                                          12:44:08.258000000 Z
+                                        updated_at: !ruby/object:DateTime 2017-06-19
+                                          12:44:08.258000000 Z
+                                        content_type_id: alumni
+                                      company_name: Sliips
+                                      alumi_of_programme:
+                                        sys:
+                                          id: 6R6ryOpFJY6s2caeeccIk0
+                                          created_at: !ruby/object:DateTime 2017-06-19
+                                            12:40:49.196000000 Z
+                                          updated_at: !ruby/object:DateTime 2017-06-19
+                                            14:06:04.281000000 Z
+                                          content_type_id: programme
+                                        programme_number: 11
+                                        programme_name: 'Ignite #11'
+                                        city: Manchester
+                                        programme_timeframe: January - March, 2017
+                                        teams:
+                                        - sys:
+                                            id: 2L8GcTGvNKauImS4uEAyIg
+                                            created_at: !ruby/object:DateTime 2017-06-19
+                                              12:44:08.258000000 Z
+                                            updated_at: !ruby/object:DateTime 2017-06-19
+                                              12:44:08.258000000 Z
+                                            content_type_id: alumni
+                                          company_name: Sliips
+                                          alumi_of_programme:
+                                            sys:
+                                              id: 6R6ryOpFJY6s2caeeccIk0
+- sys:
+    id: 1sOMKbNUXyG6MEaUoqKsgO
+    created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+    content_type_id: alumni
+  company_name: Stashbee
+  alumi_of_programme:
+    sys:
+      id: 25mAwSKoq0UYukA44mkIqu
+      created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+      updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+      content_type_id: programme
+    programme_number: 10
+    programme_name: 'Ignite #10'
+    city: London
+    programme_timeframe: September - December 2016
+    teams:
+    - sys:
+        id: 1sOMKbNUXyG6MEaUoqKsgO
+        created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+        updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+        content_type_id: alumni
+      company_name: Stashbee
+      alumi_of_programme:
+        sys:
+          id: 25mAwSKoq0UYukA44mkIqu
+          created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+          updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+          content_type_id: programme
+        programme_number: 10
+        programme_name: 'Ignite #10'
+        city: London
+        programme_timeframe: September - December 2016
+        teams:
+        - sys:
+            id: 1sOMKbNUXyG6MEaUoqKsgO
+            created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+            updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+            content_type_id: alumni
+          company_name: Stashbee
+          alumi_of_programme:
+            sys:
+              id: 25mAwSKoq0UYukA44mkIqu
+              created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+              updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000 Z
+              content_type_id: programme
+            programme_number: 10
+            programme_name: 'Ignite #10'
+            city: London
+            programme_timeframe: September - December 2016
+            teams:
+            - sys:
+                id: 1sOMKbNUXyG6MEaUoqKsgO
+                created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+                updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000 Z
+                content_type_id: alumni
+              company_name: Stashbee
+              alumi_of_programme:
+                sys:
+                  id: 25mAwSKoq0UYukA44mkIqu
+                  created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                    Z
+                  updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                    Z
+                  content_type_id: programme
+                programme_number: 10
+                programme_name: 'Ignite #10'
+                city: London
+                programme_timeframe: September - December 2016
+                teams:
+                - sys:
+                    id: 1sOMKbNUXyG6MEaUoqKsgO
+                    created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                      Z
+                    updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                      Z
+                    content_type_id: alumni
+                  company_name: Stashbee
+                  alumi_of_programme:
+                    sys:
+                      id: 25mAwSKoq0UYukA44mkIqu
+                      created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                        Z
+                      updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                        Z
+                      content_type_id: programme
+                    programme_number: 10
+                    programme_name: 'Ignite #10'
+                    city: London
+                    programme_timeframe: September - December 2016
+                    teams:
+                    - sys:
+                        id: 1sOMKbNUXyG6MEaUoqKsgO
+                        created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                          Z
+                        updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                          Z
+                        content_type_id: alumni
+                      company_name: Stashbee
+                      alumi_of_programme:
+                        sys:
+                          id: 25mAwSKoq0UYukA44mkIqu
+                          created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                            Z
+                          updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                            Z
+                          content_type_id: programme
+                        programme_number: 10
+                        programme_name: 'Ignite #10'
+                        city: London
+                        programme_timeframe: September - December 2016
+                        teams:
+                        - sys:
+                            id: 1sOMKbNUXyG6MEaUoqKsgO
+                            created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                              Z
+                            updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                              Z
+                            content_type_id: alumni
+                          company_name: Stashbee
+                          alumi_of_programme:
+                            sys:
+                              id: 25mAwSKoq0UYukA44mkIqu
+                              created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                Z
+                              updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                Z
+                              content_type_id: programme
+                            programme_number: 10
+                            programme_name: 'Ignite #10'
+                            city: London
+                            programme_timeframe: September - December 2016
+                            teams:
+                            - sys:
+                                id: 1sOMKbNUXyG6MEaUoqKsgO
+                                created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                  Z
+                                updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                  Z
+                                content_type_id: alumni
+                              company_name: Stashbee
+                              alumi_of_programme:
+                                sys:
+                                  id: 25mAwSKoq0UYukA44mkIqu
+                                  created_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                    Z
+                                  updated_at: !ruby/object:DateTime 2017-06-19 14:07:52.429000000
+                                    Z
+                                  content_type_id: programme
+                                programme_number: 10
+                                programme_name: 'Ignite #10'
+                                city: London
+                                programme_timeframe: September - December 2016
+                                teams:
+                                - sys:
+                                    id: 1sOMKbNUXyG6MEaUoqKsgO
+                                    created_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                      Z
+                                    updated_at: !ruby/object:DateTime 2017-06-19 14:07:44.250000000
+                                      Z
+                                    content_type_id: alumni
+                                  company_name: Stashbee
+                                  alumi_of_programme:
+                                    sys:
+                                      id: 25mAwSKoq0UYukA44mkIqu
+                                      created_at: !ruby/object:DateTime 2017-06-19
+                                        14:07:52.429000000 Z
+                                      updated_at: !ruby/object:DateTime 2017-06-19
+                                        14:07:52.429000000 Z
+                                      content_type_id: programme
+                                    programme_number: 10
+                                    programme_name: 'Ignite #10'
+                                    city: London
+                                    programme_timeframe: September - December 2016
+                                    teams:
+                                    - sys:
+                                        id: 1sOMKbNUXyG6MEaUoqKsgO
+                                        created_at: !ruby/object:DateTime 2017-06-19
+                                          14:07:44.250000000 Z
+                                        updated_at: !ruby/object:DateTime 2017-06-19
+                                          14:07:44.250000000 Z
+                                        content_type_id: alumni
+                                      company_name: Stashbee
+                                      alumi_of_programme:
+                                        sys:
+                                          id: 25mAwSKoq0UYukA44mkIqu
+                                          created_at: !ruby/object:DateTime 2017-06-19
+                                            14:07:52.429000000 Z
+                                          updated_at: !ruby/object:DateTime 2017-06-19
+                                            14:07:52.429000000 Z
+                                          content_type_id: programme
+                                        programme_number: 10
+                                        programme_name: 'Ignite #10'
+                                        city: London
+                                        programme_timeframe: September - December
+                                          2016
+                                        teams:
+                                        - sys:
+                                            id: 1sOMKbNUXyG6MEaUoqKsgO
+                                            created_at: !ruby/object:DateTime 2017-06-19
+                                              14:07:44.250000000 Z
+                                            updated_at: !ruby/object:DateTime 2017-06-19
+                                              14:07:44.250000000 Z
+                                            content_type_id: alumni
+                                          company_name: Stashbee
+                                          alumi_of_programme:
+                                            sys:
+                                              id: 25mAwSKoq0UYukA44mkIqu
+teamMember:
+- sys:
+    id: aGs5Y9ZyOkwCAkKCGYYKK
+    created_at: !ruby/object:DateTime 2017-06-19 13:41:46.637000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:27:10.793000000 Z
+    content_type_id: teamMember
+  first_name: Tristan
+  last_name: Watson
+  role: Managing Director
+  twitter: tristanwatson
+  position: 1
+- sys:
+    id: 1QCxrahOhC8aKakyCaKs8
+    created_at: !ruby/object:DateTime 2017-06-19 13:42:28.074000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:28:57.364000000 Z
+    content_type_id: teamMember
+  first_name: Alex
+  last_name: Kissin
+  role: Investment Director
+  twitter: AKiss1n
+  position: 5
+- sys:
+    id: 1GZt9MHUawGAeUMymq0SgM
+    created_at: !ruby/object:DateTime 2017-06-19 13:39:57.836000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:27:48.833000000 Z
+    content_type_id: teamMember
+  first_name: Gabriela
+  last_name: Matic
+  role: Programme & Marketing Manager
+  twitter: gabrielala
+  position: 3
+- sys:
+    id: 3DR7FHGdZYSumyU4kCQK0e
+    created_at: !ruby/object:DateTime 2017-06-19 13:42:12.675000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:28:08.851000000 Z
+    content_type_id: teamMember
+  first_name: Wil
+  last_name: Benton
+  role: Programme Director
+  twitter: fatkidonfire
+  position: 4
+- sys:
+    id: 2HuTvDr1JYYEk0cmwYQG6A
+    created_at: !ruby/object:DateTime 2017-06-19 13:38:06.999000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 14:27:27.885000000 Z
+    content_type_id: teamMember
+  first_name: Martyn
+  last_name: Davies
+  role: Programme Director
+  blog_posts:
+  - sys:
+      id: 4RvKfVhwis2eswy8KKeCey
+      created_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
+      updated_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
+      content_type_id: mediumArticle
+    title: Why do service providers work with accelerators?
+    url: https://medium.com/ignite-accelerator/why-do-service-providers-work-with-accelerators-a623eee10be2?source=rss----307eeef6ad0f---4
+  - sys:
+      id: 3qNgYaTqB2ke8kmYQ6Ew2W
+      created_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
+      updated_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
+      content_type_id: mediumArticle
+    title: Ignite+ Pre-Accelerator heads to Croydon
+    url: https://medium.com/ignite-accelerator/ignite-pre-accelerator-heads-to-croydon-e480bd9c5b48?source=rss----307eeef6ad0f---4
+  twitter: martynd
+  position: 2
+frequentlyAskedQuestion:
+- sys:
+    id: 6QEKTQdgcwWmgucSOuseS2
+    created_at: !ruby/object:DateTime 2017-06-19 14:27:31.151000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 16:04:12.628000000 Z
+    content_type_id: frequentlyAskedQuestion
+  question: Tell me more about Ignite
+  answer: |-
+    Ignite is the UK’s first distributed startup support and investment network. We help founders from all over the UK take their startup to the next level by providing all the support of a traditional accelerator programme without the need for relocation.
+
+    Mentorship, accountability, peer-to-peer learning, investment and preparedness for follow-on investment are all part of our programme, you just get to stay where you’re already operating whilst working with us for a minimum of 6 months.
+
+    Our programme has rolling applications. This means that you can apply, be accepted and start to benefit from our support very quickly, without waiting for a new ‘programme’ to start.
+
+    You’ll also be joining a 100+ strong family of startups on a mission to build healthy, scalable businesses and support each other in the process of doing so.
+  algolia_content_id: '906711'
+- sys:
+    id: 5gtI7Z5pdK0sWgOkWywkwS
+    created_at: !ruby/object:DateTime 2017-06-19 16:40:15.249000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 16:40:15.249000000 Z
+    content_type_id: frequentlyAskedQuestion
+  question: Who is behind this?
+  answer: |-
+    Our team have accelerated more than 100 startups since 2011 and have a strong track record selecting and supporting promising companies, with our portfolio raising over £20m in 2016 alone.
+
+    We've founded businesses, raised investment, created apps, launched products, been knocked down, got back up. We’ve walked a mile in plenty of shoes. Collectively, we've worked on more accelerator programmes than anyone else in Europe.
+- sys:
+    id: 3oOv0LZABi6QcO0OmYQYsO
+    created_at: !ruby/object:DateTime 2017-06-19 16:07:00.184000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 16:11:05.196000000 Z
+    content_type_id: frequentlyAskedQuestion
+  question: Is this really an accelerator programme?
+  answer: |-
+    You’ll find a lot of the same elements as an accelerator programme here but with an additional focus on you continuing to operate as a company in your home location.
+
+    You’ll still get mentorship, you’ll still get investment as part of joining, you’ll still be meeting and working with other excellent founders but, you’ll also be able to stay focussed on your business whilst working with us for a minimum of 6 months to ensure that you’re as strong as you need to be to push yourselves forward.
+  algolia_content_id: '907131'
+- sys:
+    id: 3ZOfTmpOBWC4aqECMSA28U
+    created_at: !ruby/object:DateTime 2017-06-19 15:56:09.438000000 Z
+    updated_at: !ruby/object:DateTime 2017-06-19 16:03:48.359000000 Z
+    content_type_id: frequentlyAskedQuestion
+  question: What does 'distributed' mean?
+  answer: |-
+    We work everywhere. A traditional accelerator programme has always required that founders move to its operating city in order to participate; we do not ask for this. If founders have a business up and running, moving some or all of a team to a new city for a period of time can be a disruptive event that should be avoided.
+
+    We’ll spend a week with you in person when you first join the programme getting to know you and your business. We’ll have a call with you every week to see how you’re progressing and what else you need help with, and we’ll do regular sessions both remotely and in-person to give you the support you need to grow your business.
+
+    Once a month we bring all our startups together for an offsite in a different UK city for two days. There you get the chance to dig in on specific topics in 1-1 mentoring and group workshops, share learning, and meet with other teams. You leave with actionable advice to implement immediately.
+  algolia_content_id: '906741'
+header:
+- sys:
+    id: 2e11BYUBYwQYWwiKCw0mAu
+    created_at: !ruby/object:DateTime 2017-07-20 15:03:06.667000000 Z
+    updated_at: !ruby/object:DateTime 2017-07-20 15:03:17.150000000 Z
+    content_type_id: header
+  homepage_lead: The UK’s distributed startup support & investment network
+  homepage_subtitle: 6 Months location independent support + £25k investment

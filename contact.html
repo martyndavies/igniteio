@@ -1,0 +1,160 @@
+---
+layout: "bootstrap"
+base: "/"
+css_class: "homepage"
+---
+
+<!-- HEADER -->
+<section id="hero">
+  <div class="row">
+    <div class="hero-container">
+      <div class="hero-wording center-block">
+        <h1>The UK’s distributed startup support &amp; investment network</h1>
+      </div>
+
+      <div class="hero-offer center-block">
+        <p>6 Months location independent support + &pound;25k investment</p>
+      </div>
+
+      <div class="hero-apply center-block">
+        <p>Apply to join!</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- /HEADER -->
+
+  <!-- SEPERATOR IMAGE -->
+
+  <div class="row">
+    <div class="col-md-12 float-image">
+      <img class="img-responsive center-block" src="/img/hero-image.png"/>
+    </div>
+  </div>
+
+  <!-- /SEPERATOR IMAGE -->
+
+</section>
+
+<section id="homepage-main-content">
+
+  <div class="row">
+      <h2 class="application">Application Process</h2>
+  </div>
+
+  <div class="row application-icons">
+    <div class="col-md-2 col-md-offset-2 align-center">
+      <img src="/img/apply-icon.png"/>
+      <p class="application-header">1. Apply</p>
+      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+    </div>
+
+    <div class="col-md-2 align-center">
+      <img src="/img/interview-icon.png"/>
+      <p class="application-header">2. Interview</p>
+      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+    </div>
+
+    <div class="col-md-2 align-center">
+      <img src="/img/offsite-icon.png"/>
+      <p class="application-header">3. Offsite</p>
+      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+    </div>
+
+    <div class="col-md-2 align-center">
+      <img src="/img/offer-icon.png"/>
+      <p class="application-header">4. Offer</p>
+      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+    </div>
+  </div>
+
+  <div class="row end-section">
+    <p class="info">For more information on our programmes and offer check out the <a href="/faq" class="page-link">FAQ</a></p>
+  </div>
+
+  <div class="row">
+    <hr class="separator"/>
+  </div>
+
+</section>
+
+<section id="programmes">
+
+  <div class="row">
+      <h2 class="application">Our Programmes</h2>
+      <div class="col-md-4 col-md-offset-4">
+        <p class="programme-info-explainer">Whether you’re looking for long term support or investment or just need help validating your next big idea, <em>Ignite</em> can help you.</p>
+      </div>
+  </div>
+
+  <div class="row programme-info">
+
+    <div class="col-md-4 col-md-offset-1 programme-box align-center">
+      <img src="/img/programme-image.png" class="align-center img-responsive"/>
+      <h3>Main Programme</h3>
+      <p class="programme-description"><strong>Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.</strong><br /><br /> Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
+
+      <br /><br />
+      <strong><em>Apply if:</em></strong><br />
+      You are a founding team of two or more with at least a minimum viable product built and are working full time on your business.</p>
+
+      <div class="hero-apply center-block">
+        <p>Apply via F6S</p>
+      </div>
+
+    </div>
+
+    <div class="col-md-4 col-md-offset-2 programme-box align-center">
+      <img src="/img/programme-image.png" class="img-responsive"/>
+      <h3>Pre-Accelerator</h3>
+      <p class="programme-description"><strong>Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.</strong><br /><br /> Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
+
+      <br /><br />
+      <strong><em>Apply if:</em></strong><br />
+      You have an idea and are thinking about how you'll take it to the next level or figure out if this is really worth doing.</p>
+
+      <div class="hero-apply center-block">
+        <p>Apply</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="row end-section">
+  </div>
+  <div class="row">
+    <hr class="separator"/>
+  </div>
+</section>
+
+<section id="team">
+
+  <div class="row section-lead">
+    <h2 class="application">Our Team</h2>
+  </div>
+
+  <!-- Team Box Loop -->
+  <div class="row">
+    <div class="col-xs-12 align-center team-boxes">
+      {% assign teamMembers = site.data.contentful.spaces.ignite.teamMember | sort: 'position' %}
+      {% for teamMember in teamMembers %}
+      <div class="team-box">
+        <img src="/img/{{teamMember.first_name|downcase}}.png"/>
+        <div class="team-member-info">
+          <p class="medium-16-black">{{teamMember.first_name}} {{teamMember.last_name}}</p>
+          <p>{{teamMember.role}}</p>
+          {% if teamMember.twitter %}
+          <p class="team-twitter"><a href="https://twitter.com/{{teamMember.twitter}}"><img src="/img/twitter-icon.png"/></a></p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <!-- Team Box Loop endeth here -->
+
+  <div class="row end-section add-space-above">
+    <p class="info">Find out more about us and some of the other superb entrepeneurs we work with on the programme <a href="/team" class="page-link">here</a></p>
+  </div>
+</section>
