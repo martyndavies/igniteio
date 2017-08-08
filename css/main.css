@@ -60,14 +60,14 @@ h4, .medium-16-black {
   color: #282827;
 }
 
-.application-stage, .info, .programme-description {
+.application-stage, .info, .programme-box p {
   font-family: gotham-book;
   font-size: 16px;
   color: #282827;
   text-align: center;
 }
 
-.programme-description {
+.programme-box p {
   text-align: left;
   padding: 15px 35px 35px 35px;
 }

@@ -9,11 +9,15 @@ css_class: "homepage"
   <div class="row">
     <div class="hero-container">
       <div class="hero-wording center-block">
-        <h1>{% assign homepageLead = site.data.contentful.spaces.ignite.header.homepage_lead %} {{ homepageLead }}</h1>
+        {% for homepageLead in site.data.contentful.spaces.ignite.header %}
+          <h1>{{ homepageLead.homepage_lead }}</h1>
+        {% endfor %}
       </div>
 
       <div class="hero-offer center-block">
-        <p>{{ site.data.contentful.spaces.ignite.header.homepage_subtitle }}</p>
+        {% for homepageLead in site.data.contentful.spaces.ignite.header %}
+          <p>{{ homepageLead.homepage_subtitle}}</p>
+        {% endfor %}
       </div>
 
       <div class="hero-apply center-block">
@@ -39,7 +43,9 @@ css_class: "homepage"
 <section id="homepage-main-content">
 
   <div class="row">
-      <h2 class="application">Application Process</h2>
+      {% for sectionHeader in site.data.contentful.spaces.ignite.sectionHeaders %}
+      <h2 class="application">{{ sectionHeader.application_process }}</h2>
+      {% endfor %}
   </div>
 
   <div class="row application-icons">
@@ -81,9 +87,13 @@ css_class: "homepage"
 <section id="programmes">
 
   <div class="row">
-      <h2 class="application">Our Programmes</h2>
+    {% for sectionHeader in site.data.contentful.spaces.ignite.sectionHeaders %}
+      <h2 class="application">{{ sectionHeader.programmes}}</h2>
+    {% endfor %}
       <div class="col-md-4 col-md-offset-4">
-        <p class="programme-info-explainer">Whether you’re looking for long term support or investment or just need help validating your next big idea, <em>Ignite</em> can help you.</p>
+        {% for leadText in site.data.contentful.spaces.ignite.leadText %}
+        <p class="programme-info-explainer">{{ leadText.programmes | markdownify }}</p>
+        {% endfor %}
       </div>
   </div>
 
@@ -92,11 +102,9 @@ css_class: "homepage"
     <div class="col-md-4 col-md-offset-1 programme-box align-center">
       <img src="/img/programme-image.png" class="align-center img-responsive"/>
       <h3>Main Programme</h3>
-      <p class="programme-description"><strong>Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.</strong><br /><br /> Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
-
-      <br /><br />
-      <strong><em>Apply if:</em></strong><br />
-      You are a founding team of two or more with at least a minimum viable product built and are working full time on your business.</p>
+      {% for programmeDescription in site.data.contentful.spaces.ignite.programmeDescriptions %}
+        <p class="programme-description">{{ programmeDescription.main_programme | markdownify }}</p>
+      {% endfor %}
 
       <div class="hero-apply center-block">
         <p>Apply via F6S</p>
@@ -107,11 +115,9 @@ css_class: "homepage"
     <div class="col-md-4 col-md-offset-2 programme-box align-center">
       <img src="/img/programme-image.png" class="img-responsive"/>
       <h3>Pre-Accelerator</h3>
-      <p class="programme-description"><strong>Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.</strong><br /><br /> Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
-
-      <br /><br />
-      <strong><em>Apply if:</em></strong><br />
-      You have an idea and are thinking about how you'll take it to the next level or figure out if this is really worth doing.</p>
+      {% for programmeDescription in site.data.contentful.spaces.ignite.programmeDescriptions %}
+        <p class="programme-description">{{ programmeDescription.pre_accelerator | markdownify }}</p>
+      {% endfor %}
 
       <div class="hero-apply center-block">
         <p>Apply</p>
@@ -131,7 +137,9 @@ css_class: "homepage"
 <section id="team">
 
   <div class="row section-lead">
-    <h2 class="application">Our Team</h2>
+    {% for sectionHeader in site.data.contentful.spaces.ignite.sectionHeaders %}
+    <h2 class="application">{{ sectionHeader.team}}</h2>
+    {% endfor %}
   </div>
 
   <!-- Team Box Loop -->
