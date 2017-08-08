@@ -2,5 +2,5 @@ language: ruby
 rvm:
   - 2.4.1
 install: gem install jekyll -v 3.5.0 && gem install s3_website && gem install jekyll-contentful-data-import
-script: bundle install && bundle exec jekyll contentful && jekyll build
+script: bundle install && jekyll build
 after_success: s3_website push
