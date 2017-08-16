@@ -60,16 +60,6 @@ h4, .medium-16-black {
   color: #282827;
 }
 
-.site-apply-link {
-  color: #fff;
-  text-decoration: none;
-}
-
-.site-apply-link:hover {
-  color: #fff;
-  text-decoration: none;
-}
-
 .application-stage, .info, .programme-box p {
   font-family: gotham-book;
   font-size: 16px;
@@ -106,6 +96,16 @@ h4, .medium-16-black {
 .page-link {
   color: #79579A;
   text-decoration: underline;
+}
+
+.site-apply-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-apply-link:hover {
+  color: #fff;
+  text-decoration: none;
 }
 
 /* Page Background Colors */
