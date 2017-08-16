@@ -61,12 +61,12 @@ h4, .medium-16-black {
 }
 
 .site-apply-link {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
 }
 
 .site-apply-link:hover {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -259,4 +259,5 @@ p.footer-text {
   color: #fff;
   font-family: gotham-medium;
   font-size: 12px;
+
 }
