@@ -99,12 +99,12 @@ h4, .medium-16-black {
 }
 
 .site-apply-link {
-  color: #fff;
+  color: #fff !important;
   text-decoration: none;
 }
 
 .site-apply-link:hover {
-  color: #fff;
+  color: #fff !important;
   text-decoration: none;
 }
 
