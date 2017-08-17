@@ -47,9 +47,16 @@ h1 {
   letter-spacing: 1px;
 }
 
-h2, h3, .application-header {
+h2, h3, .application-header, .general-header {
   font-family: gotham-medium;
   font-size: 23px;
+  color: #282827;
+  letter-spacing: 1px;
+}
+
+.general-header {
+  font-family: gotham-book;
+  font-size: 20px;
   color: #282827;
   letter-spacing: 1px;
 }
@@ -221,9 +228,18 @@ h2.application {
   height: 600px;
 }
 
+#non-index-hero {
+  height: 175px;
+}
+
 #homepage-main-content {
   background-color: #fff;
   padding-top: 250px;
+}
+
+#subpage-main-content {
+  background-color: #fff;
+  padding-top: 50px;
 }
 
 #programmes, #team {
