@@ -62,6 +62,45 @@ h2, h3, .application-header, .general-header {
   margin-bottom: 30px;
 }
 
+.faq-header-no-margin {
+  font-family: gotham-medium;
+  font-size: 23px;
+  color: #282827;
+  letter-spacing: 1px;
+}
+
+.faq-header {
+  margin-top: 50px;
+  font-family: gotham-medium;
+  font-size: 23px;
+  color: #282827;
+  letter-spacing: 1px;
+}
+
+.faq-text {
+  font-family: gotham-book;
+  font-size: 16px;
+  color: #282827;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.faq-links {
+  list-style: none;
+}
+
+.faq-links li {
+  margin-bottom: 15px;
+}
+
+.faq-links a {
+  font-family: gotham-book;
+  font-size: 16px;
+  color: #79579A;
+  text-decoration: underline;
+  letter-spacing: 1px;
+}
+
 label {
   font-family: gotham-book;
   font-size: 16px;
