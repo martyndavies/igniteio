@@ -324,12 +324,15 @@ h4, .medium-16-black {
 
 .hero-apply p {
   padding-top: 9px;
-  padding-left: 39px;
 }
 
 .hero-apply p.two {
   padding-top: 9px;
   padding-left: 50px;
+}
+
+.hero-apply p.one {
+  padding-left: 39px;
 }
 
 h2.application {
