@@ -50,7 +50,14 @@
     padding-right: 15px;
   }
 
+  .programmes-wrapper {
+    display: flex;
+    justify-content: center;
+  }
 
+  #programme-box-2 {
+    margin-left: 60px;
+  }
 
 }
 
@@ -78,13 +85,26 @@
     margin: 0 auto 60px;
   }
 
-  #programmes-wrapper {
-    display: block;
+  .programme-box {
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+  }
 
+  .programmes-wrapper {
+    display: block;
   }
 
   #programme-box-2 {
     margin-top: 40px;
+  }
+
+  .team-twitter: {
+    display: none;
+  }
+
+  .team-box {
+    height: 250px;
   }
 }
 
@@ -303,7 +323,13 @@ h4, .medium-16-black {
 }
 
 .hero-apply p {
-  padding-top: 8px;
+  padding-top: 9px;
+  padding-left: 39px;
+}
+
+.hero-apply p.two {
+  padding-top: 9px;
+  padding-left: 50px;
 }
 
 h2.application {
@@ -327,15 +353,7 @@ h2.application {
   width: 460px;
 }
 
-#programmes-wrapper {
-  display: flex;
-  justify-content: center;
-}
 
-
-#programme-box-2 {
-  margin-left: 60px;
-}
 
 .programme-info {
   margin-top: 35px;
