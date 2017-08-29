@@ -77,6 +77,15 @@
     width: 80% !important;
     margin: 0 auto 60px;
   }
+
+  #programmes-wrapper {
+    display: block;
+
+  }
+
+  #programme-box-2 {
+    margin-top: 40px;
+  }
 }
 
 /* padders */
@@ -315,7 +324,7 @@ h2.application {
 .programme-box {
   background-color: #F0F0F0;
   padding: 35px 0 35px 0;
-  width: 40%;
+  width: 460px;
 }
 
 #programmes-wrapper {
@@ -325,7 +334,7 @@ h2.application {
 
 
 #programme-box-2 {
-  margin-left: 30px;
+  margin-left: 60px;
 }
 
 .programme-info {
@@ -340,10 +349,14 @@ h2.application {
   background-color: #89C2BB;
   height: 310px;
   width: 156px;
-  display: inline-block;
+  display: inline-table;
   margin: 0 30px 35px; 25px;
   text-align: left;
   box-sizing: border-box;
+}
+
+.team-box-gabi {
+  height: 300px;
 }
 
 .team-boxes:last-child {
@@ -355,7 +368,8 @@ h2.application {
 }
 
 .team-twitter {
-  padding-top: 50px;
+  bottom: 35px;
+  position: absolute;
 }
 /* image styles */
 
