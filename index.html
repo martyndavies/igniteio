@@ -8,19 +8,17 @@ css_class: "homepage"
 <section id="hero">
   <div class="row">
     <div class="hero-container">
-      <div class="hero-wording center-block">
+      <div class="hero-wording">
         {% for homepageLead in site.data.contentful.spaces.ignite.header %}
           <h1>{{ homepageLead.homepage_lead }}</h1>
         {% endfor %}
       </div>
 
-      <div class="hero-offer center-block">
-        {% for homepageLead in site.data.contentful.spaces.ignite.header %}
-          <p>{{ homepageLead.homepage_subtitle}}</p>
-        {% endfor %}
+      <div class="hero-offer">
+          <p>6 months location-independent support that works around your location, &pound;25,000 investment and much more</p>
       </div>
 
-      <div class="hero-apply center-block">
+      <div class="hero-apply">
         <p><a href="https://www.f6s.com/igniteacceleratorapplication/connect" class="site-apply-link">Apply to join!</a></p>
       </div>
     </div>
@@ -31,7 +29,7 @@ css_class: "homepage"
   <!-- SEPERATOR IMAGE -->
 
   <div class="row">
-    <div class="col-md-12 float-image">
+    <div class="float-image">
       <img class="img-responsive center-block" src="/img/hero-image.png"/>
     </div>
   </div>
@@ -49,33 +47,33 @@ css_class: "homepage"
   </div>
 
   <div class="row application-icons">
-    <div class="col-md-2 col-md-offset-2 align-center">
+    <div class="align-center">
       <img src="/img/apply-icon.png"/>
       <p class="application-header">1. Apply</p>
-      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+      <p class="application-stage">The first step is to apply to join the Ignite programme through F6S.</p>
     </div>
 
-    <div class="col-md-2 align-center">
+    <div class="align-center">
       <img src="/img/interview-icon.png"/>
       <p class="application-header">2. Interview</p>
-      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+      <p class="application-stage">If you meet our interview criteria, we’ll schedule a call to discuss your application.</p>
     </div>
 
-    <div class="col-md-2 align-center">
+    <div class="align-center">
       <img src="/img/offsite-icon.png"/>
       <p class="application-header">3. Offsite</p>
-      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+      <p class="application-stage">If the call goes well, you’ll then be invited to an in-person interview with the Ignite team.</p>
     </div>
 
-    <div class="col-md-2 align-center">
+    <div class="align-center">
       <img src="/img/offer-icon.png"/>
       <p class="application-header">4. Offer</p>
-      <p class="application-stage">Raederfectuus came des publinteatus vivid elers catquitilii sedes  iamdii lorem contin sperbit ximorisuers vocci evirteritrur des.</p>
+      <p class="application-stage">If your application is successful, the final step is our Offer – where we invite you to join the Ignite programme.</p>
     </div>
   </div>
 
   <div class="row end-section">
-    <p class="info">For more information on our programmes and offer check out the <a href="/faq" class="page-link">FAQ</a></p>
+    <p class="info">To learn more about our programmes, offers and structure, take a look at the <a href="/faq" class="page-link">FAQ</a></p>
   </div>
 
   <div class="row">
@@ -89,20 +87,21 @@ css_class: "homepage"
   <div class="row">
       <h2 class="application">Our Programmes</h2>
       <div class="col-md-4 col-md-offset-4">
-        <p class="programme-info-explainer">Whether you’re looking for long term support or investment or just need help validating your next big idea, <em>Ignite</em> can help you.</p>
+        <p class="programme-info-explainer">Whether you’re looking for long-term support, investment or just need help validating your next big idea, we’re here to help.</p>
       </div>
   </div>
 
   <div class="row programme-info">
-
-    <div class="col-md-4 col-md-offset-1 programme-box align-center">
+    <div id="programmes-wrapper">
+    <div class="programme-box align-center" id="programme-box-1">
       <img src="/img/programme-image.png" class="align-center"/>
       <h3>Main Programme</h3>
-        <p class="programme-description">Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.
-<br /><br />
-Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
-<br /><br />
-Apply if: You are a founding team of two or more with at least a minimum viable product built and are working full time on your business.</p>
+        <p class="programme-description">Our programme features 6 months’ mentoring and support, £25,000 investment and sees our cohort working alongside a range of startups from around the UK. Think of us as your remote Non-Executive Director; here to help as you scale your business!
+        <br /><br/>
+        We work with startups remotely for three weeks of every month, delivering our Startup MBA course digitally alongside our programme mentors and partners. The fourth week of every month sees cohort startups join us, portfolio companies and interviewing businesses for in-person offsites, which are held in 10 different cities around the UK each year.
+        <br /><br />
+        Apply if: You are a founding team of two or more with at least a Minimum Viable Product built and are able to commit to working full-time on your business.
+        </p>
 
       <div class="hero-apply center-block">
         <p><a href="https://www.f6s.com/igniteacceleratorapplication/connect" class="site-apply-link">Apply via F6S</a></p>
@@ -110,21 +109,23 @@ Apply if: You are a founding team of two or more with at least a minimum viable 
 
     </div>
 
-    <div class="col-md-4 col-md-offset-2 programme-box align-center">
+    <div class="programme-box align-center" id="programme-box-2">
       <img src="/img/programme-image.png" class="align-center"/>
       <h3>Pre-Accelerator</h3>
 
-        <p class="programme-description">Decules upimum facrum iam nerfice ntelus loem. Verfectam ine aut con tum res conti, nonstio ala renicas tebatraed tum me errac lorem.
-<br /><br />
-Oltorum hucent. Ant. Scibus, Catiquodium virare licisquidiis hae ditus inum poris ve, pro ut pere ssis; iam poterei iam porei poriam patiem que tea re con temunulin ad clego consum erimil ut aus. Decules upimum facrum iam nerfice ntelus lorem.
-<br /><br />
-Apply if: You have an idea and are thinking about how you’ll take it to the next level or figure out if this is really worth doing.</p>
+        <p class="programme-description">Our pre-accelerator is a day-long intensive course for founders at the beginning of their startup journey. If you’ve an idea you want to turn into a business, this is for you!
+        <br /><br />
+        If accepted to join the day’s event, the Ignite team will share their experiences around product development, customer validation, fundraising and much more. You will also receive 1-1 mentoring and be given access the community of founders who have attended Ignite’s pre-accelerator events around the UK.
+        <br /><br />
+        Apply if: You have an idea and are thinking about how you’ll take it to the next level (or figure out if it’s really worth doing).
+        </p>
 
       <div class="hero-apply center-block">
-        <p><a href="https://www.f6s.com/igniteacceleratorapplication/connect" class="site-apply-link">Apply on F6S</a></p>
+        <p><a href="/pre-accelerator" class="site-apply-link">Apply now!</a></p>
       </div>
 
     </div>
+  </div>
 
   </div>
 

@@ -3,24 +3,110 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.header {
+  margin-top:30px;
+}
+
+@media (min-width: 768px) {
+
+  .hero-wording {
+    max-width: 44%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .application-icons {
+    margin-top: 90px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content:center;
+  }
+
+  .application-icons > div {
+    width: 20%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+
+
+}
+
+@media (max-width: 768px) {
+
+  .socials {
+    display: none;
+  }
+
+  .footer-links, .footer-text {
+    margin-bottom: 30px;
+  }
+
+  .footer-links li {
+    margin-left: -40px;
+  }
+
+  .application-icons {
+    margin-top: 45px;
+    padding-bottom: 40px;
+  }
+
+  .application-icons > div {
+    width: 80% !important;
+    margin: 0 auto 60px;
+  }
+}
+
+/* padders */
+
+
+.pad-15 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.footer-logo {
+  margin-bottom: 15px;
+}
+
+
 body {
-  padding-top: 30px;
+
+}
+
+a {
+    text-decoration: none !important;
 }
 
 .col-half-offset{
-    margin-left:4.166666667%
+  margin-left:4.166666667%
 }
 
-.container-fluid {
-    padding-right:0;
-    padding-left:0;
-    margin-right:auto;
-    margin-left:auto
- }
-
- .navbar-brand {
-   padding: 12px 50px;
- }
+.navbar-brand {
+ padding: 12px 50px;
+}
 
 /* center stuff */
 
@@ -42,14 +128,14 @@ body {
 
 h1 {
   font-family: gotham-medium;
-  font-size: 32px;
+  font-size: 2.5em;
   color: #fff;
   letter-spacing: 1px;
 }
 
 h2, h3, .application-header, .general-header {
   font-family: gotham-medium;
-  font-size: 23px;
+  font-size: 1.43em;
   color: #282827;
   letter-spacing: 1px;
 }
@@ -189,7 +275,9 @@ h4, .medium-16-black {
 }
 
 .hero-wording {
-  width: 520px;
+  max-width: 60%;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .hero-offer {
@@ -202,6 +290,7 @@ h4, .medium-16-black {
   height: 40px;
   background-color: #282827;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 
 .hero-apply p {
@@ -212,10 +301,7 @@ h2.application {
   text-align: center;
 }
 
-.application-icons {
-  margin-top: 90px;
-  padding-bottom: 80px;
-}
+
 
 .application-header {
   margin-top: 30px;
@@ -229,6 +315,17 @@ h2.application {
 .programme-box {
   background-color: #F0F0F0;
   padding: 35px 0 35px 0;
+  width: 40%;
+}
+
+#programmes-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
+#programme-box-2 {
+  margin-left: 30px;
 }
 
 .programme-info {
@@ -263,7 +360,6 @@ h2.application {
 /* image styles */
 
 .float-image {
-  position: absolute;
   z-index: 2;
 }
 
