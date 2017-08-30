@@ -1,16 +1,6 @@
 language: ruby
 rvm:
   - 2.4.1
-install: gem install jekyll -v 3.5.0 && gem install jekyll-contentful-data-import
+install: gem install jekyll -v 3.5.0 && gem install s3_website
 script: bundle install && bundle exec jekyll build
-#after_success: s3_website push
-deploy:
-  provider: s3
-  access_key_id: S3_ACCESS_KEY_ID
-  secret_access_key: S3_SECRET_KEY
-  bucket: "ignite-staging"
-  skip_cleanup: true
-  region: eu-west-1
-  local_dir: _site
-  on:
-    branch: staging
+after_success: s3_website push

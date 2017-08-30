@@ -31,6 +31,12 @@
 
 @media (min-width: 768px) {
 
+  .hero-container {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 90px;
+  }
+
   .hero-wording {
     max-width: 44%;
     text-align: center;
@@ -62,6 +68,11 @@
 }
 
 @media (max-width: 768px) {
+
+  .hero-container {
+    margin-top: 40px;
+    text-align: center;
+  }
 
   .socials {
     display: none;
@@ -297,11 +308,7 @@ h4, .medium-16-black {
 }
 
 /* hero sections at the top of pages */
-.hero-container {
-  text-align: center;
-  margin-top: 100px;
-  margin-bottom: 90px;
-}
+
 
 .hero-wording {
   max-width: 60%;
