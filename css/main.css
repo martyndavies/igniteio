@@ -70,6 +70,10 @@
     position: absolute;
   }
 
+  .img-responsive {
+    margin: 0 auto !important;
+  }
+
 }
 
 @media (max-width: 768px) {
