@@ -43,6 +43,11 @@
     margin: 0 auto;
   }
 
+  #homepage-main-content {
+    background-color: #fff;
+    padding-top: 250px;
+  }
+
   .application-icons {
     margin-top: 90px;
     padding-bottom: 80px;
@@ -80,7 +85,13 @@
 
   .hero-container {
     margin-top: 40px;
+    margin-bottom: 60px;
     text-align: center;
+  }
+
+  #homepage-main-content {
+    background-color: #fff;
+    padding-top: 110px;
   }
 
   .img-responsive {
@@ -431,10 +442,7 @@ h2.application {
   height: 175px;
 }
 
-#homepage-main-content {
-  background-color: #fff;
-  padding-top: 250px;
-}
+
 
 #subpage-main-content {
   background-color: #fff;
