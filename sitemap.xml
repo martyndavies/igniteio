@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ignite.io/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ignite.io/contact</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ignite.io/faq</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ignite.io/apply</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ignite.io/pre-accelerator</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://blog.ignite.io</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ignite.io/officehours</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
