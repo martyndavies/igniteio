@@ -61,6 +61,12 @@
     padding-right: 15px;
   }
 
+  .programme-box {
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+  }
+
   .programmes-wrapper {
     display: flex;
     justify-content: center;
@@ -123,7 +129,11 @@
   .programme-box {
     text-align: center;
     margin: 0 auto;
-    width: 400px;
+    width: 80%;
+  }
+
+  .programme-image {
+    width: 100%
   }
 
   .programmes-wrapper {
@@ -383,8 +393,7 @@ h2.application {
 
 .programme-box {
   background-color: #F0F0F0;
-  padding: 35px 0 35px 0;
-  width: 460px;
+  padding: 0px 0 35px 0;
 }
 
 
