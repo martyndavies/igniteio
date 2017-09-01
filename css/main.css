@@ -114,7 +114,7 @@
   }
 
   .socials {
-    display: none;
+    display: none !important;
   }
 
   .footer-links, .footer-text {
