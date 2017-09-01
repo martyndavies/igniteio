@@ -15,11 +15,7 @@
   margin-right: 0px !important;
 }
 
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
-}
+
 
 .navbar .navbar-collapse {
   text-align: center;
@@ -30,6 +26,16 @@
 }
 
 @media (min-width: 768px) {
+
+  .masthead-logo {
+    padding: 10px 50px 0 0;
+  }
+
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
 
   .hero-container {
     text-align: center;
@@ -86,6 +92,11 @@
 }
 
 @media (max-width: 768px) {
+
+  .navbar .navbar-nav {
+    float: none;
+    vertical-align: top;
+  }
 
   .hero-container {
     margin-top: 40px;
@@ -170,6 +181,10 @@ a {
 
 .col-half-offset{
   margin-left:4.166666667%
+}
+
+.navbar {
+  text-align: center;
 }
 
 .navbar-brand {
