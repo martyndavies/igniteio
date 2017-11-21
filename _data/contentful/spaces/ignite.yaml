@@ -55,16 +55,6 @@ teamMember:
   twitter: martynd
   position: 2
 - sys:
-    id: 1QCxrahOhC8aKakyCaKs8
-    created_at: !ruby/object:DateTime 2017-06-19 13:42:28.074000000 Z
-    updated_at: !ruby/object:DateTime 2017-07-20 14:28:57.364000000 Z
-    content_type_id: teamMember
-  first_name: Alex
-  last_name: Kissin
-  role: Investment Director
-  twitter: AKiss1n
-  position: 5
-- sys:
     id: aGs5Y9ZyOkwCAkKCGYYKK
     created_at: !ruby/object:DateTime 2017-06-19 13:41:46.637000000 Z
     updated_at: !ruby/object:DateTime 2017-07-20 14:27:10.793000000 Z
