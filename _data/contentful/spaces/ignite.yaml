@@ -16,9 +16,9 @@ teamMember:
     content_type_id: teamMember
   first_name: Gabriela
   last_name: Matic
-  role: Programme & Marketing Manager
+  role: Programme Director
   twitter: gabrielaellala
-  position: 3
+  position: 2
 - sys:
     id: 3DR7FHGdZYSumyU4kCQK0e
     created_at: !ruby/object:DateTime 2017-06-19 13:42:12.675000000 Z
@@ -28,7 +28,7 @@ teamMember:
   last_name: Benton
   role: Programme Director
   twitter: fatkidonfire
-  position: 4
+  position: 3
 - sys:
     id: 2HuTvDr1JYYEk0cmwYQG6A
     created_at: !ruby/object:DateTime 2017-06-19 13:38:06.999000000 Z
@@ -53,7 +53,7 @@ teamMember:
     title: Ignite+ Pre-Accelerator heads to Croydon
     url: https://medium.com/ignite-accelerator/ignite-pre-accelerator-heads-to-croydon-e480bd9c5b48?source=rss----307eeef6ad0f---4
   twitter: martynd
-  position: 2
+  position: 4
 - sys:
     id: aGs5Y9ZyOkwCAkKCGYYKK
     created_at: !ruby/object:DateTime 2017-06-19 13:41:46.637000000 Z
