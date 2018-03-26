@@ -30,31 +30,6 @@ teamMember:
   twitter: fatkidonfire
   position: 3
 - sys:
-    id: 2HuTvDr1JYYEk0cmwYQG6A
-    created_at: !ruby/object:DateTime 2017-06-19 13:38:06.999000000 Z
-    updated_at: !ruby/object:DateTime 2017-07-20 14:27:27.885000000 Z
-    content_type_id: teamMember
-  first_name: Martyn
-  last_name: Davies
-  role: Programme Director
-  blog_posts:
-  - sys:
-      id: 4RvKfVhwis2eswy8KKeCey
-      created_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
-      updated_at: !ruby/object:DateTime 2016-11-18 14:59:16.007000000 Z
-      content_type_id: mediumArticle
-    title: Why do service providers work with accelerators?
-    url: https://medium.com/ignite-accelerator/why-do-service-providers-work-with-accelerators-a623eee10be2?source=rss----307eeef6ad0f---4
-  - sys:
-      id: 3qNgYaTqB2ke8kmYQ6Ew2W
-      created_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
-      updated_at: !ruby/object:DateTime 2016-06-13 20:50:48.616000000 Z
-      content_type_id: mediumArticle
-    title: Ignite+ Pre-Accelerator heads to Croydon
-    url: https://medium.com/ignite-accelerator/ignite-pre-accelerator-heads-to-croydon-e480bd9c5b48?source=rss----307eeef6ad0f---4
-  twitter: martynd
-  position: 4
-- sys:
     id: aGs5Y9ZyOkwCAkKCGYYKK
     created_at: !ruby/object:DateTime 2017-06-19 13:41:46.637000000 Z
     updated_at: !ruby/object:DateTime 2017-07-20 14:27:10.793000000 Z
